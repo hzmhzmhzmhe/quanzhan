@@ -1,0 +1,372 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.w {
+    width: 1920px;
+    margin: auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.beijing {
+    /* float: left; */
+    height: 814px;
+    background: url(images/1.png);
+}
+
+.header {
+    height: 100px;
+    /* background-color: thistle; */
+    /* margin: 28px auto; */
+}
+
+.nav1 {
+    float: left;
+    margin-left: 150px;
+}
+
+.nav1 ul li {
+    float: left;
+}
+
+.nav1 ul li a {
+    display: block;
+    height: 40px;
+    padding: 0 70px;
+    line-height: 90px;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+.logo {
+    float: left;
+    height: 100px;
+    width: 240px;
+    margin-left: 200px;
+}
+
+.nav2 {
+    float: left;
+    margin-left: 200px;
+}
+
+.nav2 ul li {
+    float: left;
+}
+
+.nav2 ul li a {
+    display: block;
+    height: 40px;
+    padding: 0 70px;
+    line-height: 90px;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+.xiaobai {
+    height: 30px;
+    background-color: #ffffff;
+}
+
+.huise {
+    height: 450px;
+    background-color: #eae7e8;
+}
+
+.tupian1 {
+    float: left;
+    height: 500px;
+    width: 420px;
+    margin-left: 410px;
+    margin-top: 40px;
+}
+
+.baise {
+    float: left;
+    width: 730px;
+    height: 500px;
+    margin-top: 40px;
+}
+
+.bofang {
+    float: left;
+    width: 370px;
+    height: 240px;
+    margin-top: -150px;
+    margin-left: 550px;
+}
+.video {
+    float: left;
+        width: 370px;
+        height: 240px;
+        margin-top: -70px;
+        margin-left: -225px;
+}
+
+.baikuai {
+    height: 950px;
+    background-color: #ffffff;
+}
+
+.wenzikuang {
+    width: 330px;
+    height: 55px;
+    float: left;
+    /* background-color: #9f9898; */
+    margin-top: 100px;
+    margin-left: 800px;
+    line-height: 55px;
+    font-size: 50px;
+}
+
+.gexilie {
+    float: left;
+    margin-top: 300px;
+    margin-left: -900px;
+}
+
+.gexilie dl {
+    float: left;
+    margin-left: 70px;
+}
+
+.gexilie dl dt {
+    font-size: 25px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.gexilie dl dd {
+
+    font-size: 19px;
+    text-align: center;
+}
+.liaojiexiangqing a {
+    float: left;
+    font-size: 25px;
+    margin-top: 585px;
+    margin-left: -700px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.liaojie {
+    float: left;
+    margin-top: 570px;
+    margin-left: -750px;
+}
+
+
+
+.bi {
+    height: 400px;
+    background: url(images/5.png);
+}
+
+.logo2 {
+    float: left;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+.shenhui {
+    height: 350px;
+    background-color: #6f6d6d;
+}
+
+.from {
+    float: left;
+    margin-top: 80px;
+    margin-left: 800px;
+}
+
+.pingjiakuang {
+    float: left;
+    height: 275px;
+    width: 810px;
+    background-color: #ffffff;
+    margin-left: 550px;
+    margin-top: 30px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.3);
+}
+
+.touxiang {
+    float: left;
+    margin-left: 370px;
+    margin-top: 40px;
+}
+
+.pingjia dl {
+    float: left;
+    font-size: 17px;
+    margin-top: 30px;
+    margin-left: 135px;
+}
+
+.box1 {
+    float: left;
+    height: 10px;
+    width: 43px;
+    margin-left: -375px;
+    margin-top: 125px;
+}
+
+.box2 {
+    float: left;
+    height: 10px;
+    width: 43px;
+    margin-left: -275px;
+    margin-top: 125px;
+}
+
+.box3 {
+    float: left;
+    height: 10px;
+    width: 43px; 
+    margin-left: -175px;
+    margin-top: 125px;
+}
+
+.baisekuai {
+    height: 1000px;
+    background-color: #ffffff;
+
+}
+
+.choose {
+    float: left;
+    margin-left: -475px;
+    margin-top: 200px;
+}
+
+.p1 {
+    float: left;
+    /* background-color: #1d1a1a; */
+    height: 225px;
+    width: 250px;
+    margin-left: 510px;
+    margin-top: 220px;
+    background: url(images/11.png)
+}
+
+.p2 {
+    float: left;
+    height: 300px;
+    width: 250px;
+    margin-left: -250px;
+    margin-top: 465px;
+    background: url(images/12.png)
+}
+
+.p3 {
+    float: left;
+    height: 370px;
+    width: 250px;
+    margin-left: 70px;
+    margin-top: 215px;
+    background: url(images/13.png)
+}
+
+.p4 {
+    float: left;
+    height: 165px;
+    width: 250px;
+    margin-left: -250px;
+    margin-top: 600px;
+    background: url(images/14.png)
+}
+
+.p5 {
+    float: left;
+    height: 230px;
+    width: 250px;
+    margin-left: 70px;
+    margin-top: 210px;
+    background: url(images/15.png)
+}
+
+.p6 {
+    float: left;
+    height: 300px;
+    width: 250px;
+    margin-left: -250px;
+    margin-top: 460px;
+    background: url(images/16.png)
+}
+
+.chuowo {
+    
+    float: left;
+    margin-top: 800px;
+    margin-left: -550px;
+
+}
+
+.xuangou a {
+    float: left;
+    
+    margin-top: 815px;
+    margin-left: -500px;
+    font-size: 25px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.box {
+    float: left;
+    width: 880px;
+    height: 440px;
+    background-color: #fff;
+    margin-left: 545px;
+    margin-top: 90px;
+    box-shadow: 0 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+.box ul li {
+    float: left;
+    height: 120px;
+    width: 840px;
+    margin-top: 20px;
+    margin-left: 18px;
+    background-color: #ffffff;
+}
+
+.box ul li h3 dl {
+    float: left;
+    margin-bottom: 60px;
+    margin-left: 420px;
+    margin-top: -100px;
+    font-style: italic;
+}
+
+.baisexiaokuai {
+    height: 315px;
+    background-color: #ffffff;
+}
+
+.xinping {
+    float: left;
+    margin-left: -550px;
+    margin-top: 230px;
+}
+.tuijian a {
+    text-decoration: none;
+    float: left;
+    margin-left:-500px ;
+    margin-top: 240px;
+    color: #ffffff;
+    
+    font-size: 25px;
+}
+.beijing2 {
+    height: 1010px;
+    background: url(images/22.png);
+}
